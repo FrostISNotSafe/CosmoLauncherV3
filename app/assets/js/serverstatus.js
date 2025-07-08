@@ -8,10 +8,10 @@ const net = require('net')
  * @returns {Promise.<Object>} A promise which resolves to an object containing
  * status information.
  */
-exports.getStatus = function(address, port = 25565){
+exports.getStatus = function(address ='198.89.99.211', port = 25564){
 
     if(port == null || port == ''){
-        port = 25565
+        port = 25564
     }
     if(typeof port === 'string'){
         port = parseInt(port)
