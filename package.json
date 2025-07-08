@@ -1,13 +1,13 @@
 {
-    "name": "HastaStudiosLauncher",
-    "version": "2.0.7",
-    "productName": "Hasta Studios Launcher",
-    "description": "Oficial Laucnher For All Hasta Studios And ZSMP Projects",
-    "author": "Shisuys (https://github.com/shisuiicaro/)",
+    "name": "CosmosRP-Launcher",
+    "version": "3.0.0",
+    "productName": "CosmosRP-Launcher",
+    "description": "Oficial Laucnher For All CosmosRP Projects",
+    "author": "Frost (Aka Zeke) (https://github.com/FrostISNotSafe/)",
     "license": "UNLICENSED",
-    "homepage": "https://github.com/Shisuiicaro/HastaStudiosLauncher",
+    "homepage": "https://github.com/FrostISNotSafe/CosmoLauncherV3",
     "bugs": {
-        "url": "https://discord.gg/zsmp"
+        "url": " "
     },
     "private": true,
     "main": "index.js",
@@ -47,6 +47,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Shisuiicaro/HastaStudiosLauncher.git"
+        "url": "git+https://github.com/FrostISNotSafe/CosmoLauncherV3.git"
     }
 }
